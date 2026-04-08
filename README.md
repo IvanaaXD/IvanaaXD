@@ -1,6 +1,4 @@
-# 💫 About Me
-
-**Hi there, I'm Ivana 👋**
+# Hi there, I'm Ivana 👋
 
 A fourth-year software engineering student passionate about building web applications, exploring new technologies, and creating projects that make an impact. I love diving into areas like machine learning, cloud computing, and software architecture, and I'm always eager to learn, code, and collaborate on innovative web solutions.
 
